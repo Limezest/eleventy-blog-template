@@ -20,7 +20,7 @@ module.exports = {
     // GitHub ID (optional, remove it not needed), used for link in the left sidebar
     socialGitHub: "limezest",
     // LinkedIn ID  (optional, remove it not needed), used for link in the left sidebar
-    socialLinkedIn: "cyril.sabourault",
+    socialLinkedIn: "cyrilsabourault",
     // Google Analytics ID  (optional, remove it not needed), used for... well, Google Analytics
     googleAnalytics: "UA-97440152-1"
     // Algolia-powered search  (optional, remove it not needed),
