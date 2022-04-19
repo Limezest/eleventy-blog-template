@@ -24,7 +24,7 @@
     "dependencies": {
         "@11ty/eleventy": "^0.12.1",
         "@11ty/eleventy-plugin-rss": "^1.1.1",
-        "@rollup/plugin-replace": "^2.4.2",
+        "@rollup/plugin-replace": "^4.0.0",
         "autoprefixer": "^10.2.6",
         "crypto-js": "^4.0.0",
         "cssnano": "^5.0.6",
