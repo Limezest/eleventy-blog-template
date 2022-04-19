@@ -1777,10 +1777,10 @@ eslint-config-prettier@^8.3.0:
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.3.0.tgz#f7471b20b6fe8a9a9254cc684454202886a2dd7a"
   integrity sha512-BgZuLUSeKzvlL/VUjx/Yb787VQ26RU3gGjA3iiFvdsp/2bMfVIWUVP7tjxtjS0e+HP409cPlPvNkQloz8C91ew==
 
-eslint-plugin-inclusive-language@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-inclusive-language/-/eslint-plugin-inclusive-language-2.1.1.tgz#74875a0a93da343587c735854c706cc22579fd4d"
-  integrity sha512-/dJC035CntrE7JpmQk0lId340iJZ3wUp22dUIy33CVSbO0t9jffeIe0lM0H9281ISdfB4oERvbq3iMK7f0YRDQ==
+eslint-plugin-inclusive-language@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-inclusive-language/-/eslint-plugin-inclusive-language-2.2.0.tgz#e016846fc7b25ad39f7836979966564e20dfc402"
+  integrity sha512-RzPeSjuw1NYiTSQyFzYl2uTDgiPQWDUmFCiGAMCITmXN627DsWZ9rR4KNzrb8vnk/gLL5qdYr8oxh44xsrcO5Q==
   dependencies:
     humps "^2.0.1"
 
