@@ -42,12 +42,21 @@ have layouts and my non-initiated self forgot to check.
 
 Starting with what you can see and interact with first
 
+### Format
+
+-   Full size
+-   TKL
+-   Compact 75 / 60%
+-   ergo
+-   40%
+
+
 ### ✨ The Keys ✨
 
 -   Layout (ANSI / ISO)
 -   Disposition (FR-ISO)
 -   Keycaps (PBT (backlight))
--   Characters / Novelty (Dye)
+-   Legends Characters / Novelty (Dye, Lazer, Engraving)
 -   Profile (Cherry / OEM)
 
 ### ✨ The Switches ✨
@@ -76,7 +85,15 @@ Right underneath the keys, the switches are probably the most talked-about featu
 
 ## What comes next?
 
-### Learn to type again
+### Learning to type again
+
+-   typingclub
+
+### Moding
+
+-   moding to improve sound and comfort
+-   Changing somes switches (spacebar to a higher activation force?)
+
 
 [nuphy-air75]: https://nuphy.com/products/air75
 [keychron-k3v2]: https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard
