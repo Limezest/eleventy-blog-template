@@ -3195,17 +3195,6 @@ markdown-it-anchor@^7.1.0:
   resolved "https://registry.yarnpkg.com/markdown-it-anchor/-/markdown-it-anchor-7.1.0.tgz#30fb21497bf59e83ff4d1ddc052d821962e2489e"
   integrity sha512-loQggrwsIkkP7TOrESvmYkV2ikbQNNKhHcWyqC7/C2CmfHl1tkUizJJU8C5aGgg7J6oXVQJx17gk7i47tNn/lQ==
 
-markdown-it@12.0.4:
-  version "12.0.4"
-  resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-12.0.4.tgz#eec8247d296327eac3ba9746bdeec9cfcc751e33"
-  integrity sha512-34RwOXZT8kyuOJy25oJNJoulO8L0bTHYWXcdZBYZqFnjIy3NgjeoM3FmPXIOFQ26/lSHYMr8oc62B6adxXcb3Q==
-  dependencies:
-    argparse "^2.0.1"
-    entities "~2.1.0"
-    linkify-it "^3.0.1"
-    mdurl "^1.0.1"
-    uc.micro "^1.0.5"
-
 markdown-it@12.3.2:
   version "12.3.2"
   resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-12.3.2.tgz#bf92ac92283fe983fe4de8ff8abfb5ad72cd0c90"
@@ -3262,19 +3251,12 @@ markdownlint-rule-helpers@0.16.0:
   resolved "https://registry.yarnpkg.com/markdownlint-rule-helpers/-/markdownlint-rule-helpers-0.16.0.tgz#c327f72782bd2b9475127a240508231f0413a25e"
   integrity sha512-oEacRUVeTJ5D5hW1UYd2qExYI0oELdYK72k1TKGvIeYJIbqQWAz476NAc7LNixSySUhcNl++d02DvX0ccDk9/w==
 
-markdownlint@0.25.1:
+markdownlint@0.25.1, markdownlint@^0.25.1:
   version "0.25.1"
   resolved "https://registry.yarnpkg.com/markdownlint/-/markdownlint-0.25.1.tgz#df04536607ebeeda5ccd5e4f38138823ed623788"
   integrity sha512-AG7UkLzNa1fxiOv5B+owPsPhtM4D6DoODhsJgiaNg1xowXovrYgOnLqAgOOFQpWOlHFVQUzjMY5ypNNTeov92g==
   dependencies:
     markdown-it "12.3.2"
-
-markdownlint@^0.23.1:
-  version "0.23.1"
-  resolved "https://registry.yarnpkg.com/markdownlint/-/markdownlint-0.23.1.tgz#98292b5d340d01e9c113f3d7fb3b2ccf89628dc2"
-  integrity sha512-iOEwhDfNmq2IJlaA8mzEkHYUi/Hwoa6Ss+HO5jkwUR6wQ4quFr0WzSx+Z9rsWZKUaPbyirIdL1zGmJRkWawr4Q==
-  dependencies:
-    markdown-it "12.0.4"
 
 maximatch@^0.1.0:
   version "0.1.0"
