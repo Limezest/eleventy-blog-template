@@ -50,7 +50,6 @@ Starting with what you can see and interact with first
 -   ergo
 -   40%
 
-
 ### ✨ The Keys ✨
 
 -   Layout (ANSI / ISO)
@@ -93,7 +92,6 @@ Right underneath the keys, the switches are probably the most talked-about featu
 
 -   moding to improve sound and comfort
 -   Changing somes switches (spacebar to a higher activation force?)
-
 
 [nuphy-air75]: https://nuphy.com/products/air75
 [keychron-k3v2]: https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard
