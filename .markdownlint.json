@@ -2,5 +2,5 @@
   "line-length": false,
   "list-marker-space": false,
   "no-inline-html": false,
-  "MD033": {"allowed_elements": ["sub", "sup", "em"]}
+  "MD033": { "allowed_elements": ["sub", "sup", "em"] }
 }
