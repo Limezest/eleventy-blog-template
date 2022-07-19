@@ -72,7 +72,7 @@ The keyboard format is one of the very first thing you are going to look at. Thi
     <br/>
 
 -   **TKL**: Stands for "ten key less". A fullsize without numpad.  
-    Main avantage is taking less space on your desk and keeping your mouse closer to you. (more comfortable for gaming)
+    This one drops the numpad to take less space on your desk and keep your mouse closer to you. (more comfortable for gaming)
     <br/><br/>
     ![format-tkl-keyboard][format-tkl-keyboard]
     <br/>
@@ -81,7 +81,8 @@ The keyboard format is one of the very first thing you are going to look at. Thi
     Common formats are 75%, 60% and 40%.
 
     75% keyboards include the main keys you need on a keyboard to write: letters and symbols, modifiers, as well as F-keys, directional arrows and some specials keys. Even if no standard is established, manufacturers often include "page up"/"down", "home" and "end" keys, "del" and sometimes "ins".  
-    They're the most common custom type. The most important part is how many extra keys you get since you will be able to reprogram them to your will using softwares like [VIA][via]
+    The most important part is how many extra keys you get since you will be able to reprogram them to your will using softwares like [VIA][via].  
+    Together with the TKL, they are the most common custom type.  
     <br/><br/>
     ![format-75-keyboard][format-75-keyboard]
     <br/>
