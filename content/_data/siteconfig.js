@@ -12,7 +12,7 @@ module.exports = {
     // Author name, shown in left sidebar, and used in JSON-LD
     author: "Cyril Sabourault",
     // Site description, shown below site image (optional)
-    description: "Blog using 11ty on Netlify",
+    description: "Random Access Memories",
     // OpenGraph default image, in case you don't have an `image`
     // set in your Markdown frontmatter; relevant for social
     // sharing.
