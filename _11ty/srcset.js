@@ -98,6 +98,12 @@ const processImage = async (el) => {
         return;
     }
 
+    const destinationFolder =
+        "./_site" + filename.split("/").slice(0, -1).join("/");
+    if (!existsSync(destinationFolder)) {
+        mkdirSync(destinationFolder, { recursive: true });
+    }
+
     const file = join(process.cwd(), filename);
 
     // Generate file hash
