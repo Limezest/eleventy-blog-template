@@ -3,6 +3,6 @@
     "list-marker-space": false,
     "no-inline-html": false,
     "MD033": {
-        "allowed_elements": ["sub", "sup", "em", "br"]
+        "allowed_elements": ["sub", "sup", "em", "br", "center"]
     }
 }
