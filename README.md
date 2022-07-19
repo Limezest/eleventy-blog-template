@@ -72,4 +72,5 @@ yarn precommit
 ```
 
 ## Credits
+
 Bootstrapped from <https://github.com/muenzpraeger/eleventy-chirpy-blog-template>
