@@ -1,23 +1,31 @@
 ---
 title: Mechanical keyboards
 date: 2022-07-19
-image: /assets/images/2022/mechanical-keyboards.jpg
-image_link: https://pixabay.com/fr/photos/clavier-m%c3%a9canique-r%c3%a9tro-mise-%c3%a0-plat-6617903/
-tags:
+image: /assets/images/2022/mechanical-keyboards/header.jpg
+imageAlt: https://pixabay.com/fr/photos/clavier-m%c3%a9canique-r%c3%a9tro-mise-%c3%a0-plat-6617903/
+additionalTags:
     - hobby
 ---
 
+<br/>
+
+> An introductory guide to mechanical keyboards and their components
+
+<br/>
 <sub>
 Disclaimers:
 </sub>
+<br/>
 
 <sub>
 - This is my very first blog post. I hope practice will help me getting better at writing!
 </sub>
+<br/>
 
 <sub>
 - I've had this article on draft for so long and at this rate it'll never come out so I'm publishing it half way with the paragraph headings so check back later if you're interested.
 </sub>
+<br/>
 
 <sub>
 - Also, I just started testing out the whole Jamstack / Netlify thing, and I am genuinely impressed!! 🤯  
@@ -27,9 +35,9 @@ I'll post next about my setup with Github, DNS and so-on.
 <br/>
 <br/>
 
-## Some context on mechanical keyboards
+## Some context on keyboards
 
-So I dove head first into mechanical keyboards a few weeks ago. (months ago\* as I publish this so late…)  
+I got into mechanical keyboards a few weeks ago. (months ago\* as I publish this so late…)  
 Being a software engineer I spend a lot of type on my keyboard and — believe it or not — I sometimes even type on it to summon the favors of computer gods.
 
 After being curious about numerous keyboard options for a long time I finally crossed the line and ordered a Keychron K3v2 as my first step in the field.
@@ -54,34 +62,52 @@ Let me take you through what I learned in the last few months!
 
 Let's start from a visual perspective
 
-### Format
+### ✨ Format ✨
 
 The keyboard format is one of the very first thing you are going to look at. This decision will impact many things: the number of keys on the board, their disposition, the use of macros, your muscle memory, ...
 
 -   **Full size**: It's your standard keyboard with a numpad and all keys (105 in Europe, 104 US)
-    [!][format-fullsize-keyboard]
+    <br/><br/>
+    ![format-fullsize-keyboard][format-fullsize-keyboard]
+    <br/>
+
 -   **TKL**: Stands for "ten key less". A fullsize without numpad.  
-    Main avantage is taking less space on your desk and keeping your mouse closer to you. (more comfortable for gaming)
-    [!][format-tkl-keyboard]
+    This one drops the numpad to take less space on your desk and keep your mouse closer to you. (more comfortable for gaming)
+    <br/><br/>
+    ![format-tkl-keyboard][format-tkl-keyboard]
+    <br/>
 
 -   **Compact**: Anything smaller than a TKL.  
     Common formats are 75%, 60% and 40%.
 
-    75% keyboards include the main keys you need on a keyboard to write: letters and symbols, modifiers, as well as F-keys, directional arrows and some specials keys. Even if no standard is established, manufacturers often include "page up"/"down", "home" and "end" keys, "del" and sometimes "ins".
-    The most important part with compact keyboards is how many extra keys you get since you will be able to reprogram them to your will using softwares like [VIA][via]
-    [!][format-75-keyboard]
+    75% keyboards include the main keys you need on a keyboard to write: letters and symbols, modifiers, as well as F-keys, directional arrows and some specials keys. Even if no standard is established, manufacturers often include "page up"/"down", "home" and "end" keys, "del" and sometimes "ins".  
+    The most important part is how many extra keys you get since you will be able to reprogram them to your will using softwares like [VIA][via].  
+    Together with the TKL, they are the most common custom type.  
+    <br/><br/>
+    ![format-75-keyboard][format-75-keyboard]
+    <br/>
 
     60% only include the main keys of a keyboard (no F-keys, no arrows, no special keys).  
-     Any deleted keys may be accessed using a combination of Fn keys.
-    [!][format-60-keyboard]
+    Any deleted keys may be accessed using a combination of Fn keys.  
+    [A great guide to 60% format][format-60-keyboard-guide]
 
-    40% are the most minimal keyboard possible. Including only letters, symbols and modifiers. They require users to bind their specific key combination and rely on a lot of muscle memory to make them work.
-    [!][format-40-keyboard]
+    40% are the most minimal keyboard possible. Including only letters, symbols and modifiers.  
+    They require users to bind their specific key combination and rely on a lot of muscle memory to make them work.
+    <br/><br/>
+    ![format-40-keyboard][format-40-keyboard]
+    <br/>
+    <center>⤴️ This specific example is ortholinear: the keys are aligned next to each other.</center>
 
 -   **ergo**:
-    [!][format-ergo-keyboard]
+    <br/><br/>
+    ![format-ergo-keyboard][format-ergo-keyboard]
+    <br/>
+
+An important thing to notice is no matter the keyboard format, the actual key size and spacing between them will always be the same!
 
 ### ✨ The Keys ✨
+
+Now that we've seen how many keys a keyboard can have, let's talk about their arrangement and all their specificities.
 
 -   Layout (ANSI / ISO)
 -   Disposition (FR-ISO)
@@ -97,11 +123,9 @@ They come in different shapes and feelings.
 -   mechanical / optical / linear
 -   click / tactile
 -   brands
-
 -   3/5-pins / box / housing
 -   lubricant
 -   stabilizers
-
 -   next-level shit: frankenswitch example
 
 ### ✨ The Plate ✨
@@ -139,19 +163,18 @@ Bluetooth is rare but can be found
 It took me a lot of time to get my typing speed and accuracy back from a membrane keyboard to a mechanical one, especially with a tall profile and light actuation switches.  
 I can only recommend so much [Typing Club][typing-club] to help you with touch typing.
 
-## Moding
+### Moding
 
 -   moding to improve sound and comfort
--   Changing somes switches (spacebar to a higher activation force?)
+-   Changing somes switches (spacebar to a higher actuation force?)
 
 [nuphy-air75]: https://nuphy.com/products/air75
 [keychron-k3v2]: https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard
 [via]: https://www.caniusevia.com
-
-[format-fullsize-keyboard]:
-[format-tkl-keyboard]:
-[format-75-keyboard]:
-[format-60-keyboard]:
-[format-40-keyboard]:
-
+[format-60-keyboard-guide]: https://github.com/astronautr/60p-keyboard-layout
 [typing-club]: https://www.typingclub.com
+[format-fullsize-keyboard]: /assets/images/2022/mechanical-keyboards/format-fullsize-keyboard.png "Example fullsize keyboard"
+[format-tkl-keyboard]: /assets/images/2022/mechanical-keyboards/format-tkl-keyboard.png "Example tenkeyless keyboard"
+[format-75-keyboard]: /assets/images/2022/mechanical-keyboards/format-75-keyboard.png "Example 75% keyboard"
+[format-40-keyboard]: /assets/images/2022/mechanical-keyboards/format-40-keyboard.png "Example 40% keyboard"
+[format-ergo-keyboard]: /assets/images/2022/mechanical-keyboards/format-ergo-keyboard.png "Example ergo keyboard"

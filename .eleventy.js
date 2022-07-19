@@ -158,9 +158,34 @@ function extractExcerpt(article) {
         return null;
     }
 
-    const content = article.templateContent;
+    // Ensure the line is not empty and does not start with an unwanted tag
+    const meaningfullRegex = /^(([\w\s]+)|<[ph].*?>(.*)<\/\w+>|-+\s*(.*))$/;
+    /* Regex explaination:
+        ^                           # Start of line
+        (                           # 3 possible starts:
+            ([\w\s]+)|                  # Starts with any word character: typically a non-formated sentence
+            <[ph].*?>(.*)<\/\w+>|       # Starts with a 'p' or 'h*' tag: a new paragraph or a title (.*? is a non-greedy match)
+            -+\s*(.*)                   # Starts with a dash and any amount of space after: a list item
+        )
+        $                           # Match till the end of line
+    */
 
-    const excerpt = content.slice(0, content.indexOf("\n"));
+    const rawContent = article.templateContent;
+    const firstMeaningfulLine = rawContent
+        .split("\n")
+        .find((line) => meaningfullRegex.test(line));
+    // regex.test will return the first line that match, without extracting the group
+    // This means the excerpt will potentially contain formatting tags
 
-    return excerpt;
+    if (!firstMeaningfulLine) {
+        console.warn(
+            "Failed to extract excerpt: Regex failed to find a meaningful line."
+        );
+        return "";
+    }
+
+    // Keep only the first sentence, remove trailing whitespace
+    return firstMeaningfulLine
+        .slice(0, firstMeaningfulLine.indexOf("\n"))
+        .trim();
 }
