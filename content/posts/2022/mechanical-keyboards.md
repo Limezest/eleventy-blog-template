@@ -37,7 +37,7 @@ I'll post next about my setup with Github, DNS and so-on.
 
 ## Some context on keyboards
 
-So I dove head first into mechanical keyboards a few weeks ago. (months ago\* as I publish this so late…)  
+I got into mechanical keyboards a few weeks ago. (months ago\* as I publish this so late…)  
 Being a software engineer I spend a lot of type on my keyboard and — believe it or not — I sometimes even type on it to summon the favors of computer gods.
 
 After being curious about numerous keyboard options for a long time I finally crossed the line and ordered a Keychron K3v2 as my first step in the field.
