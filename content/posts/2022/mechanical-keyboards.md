@@ -20,7 +20,7 @@ Disclaimers:
 </sub>
 
 <sub>
-- Also, I just started testing out the whole Jamstack / Netlify thing, and I am genuinely impressed!! 🤯   
+- Also, I just started testing out the whole Jamstack / Netlify thing, and I am genuinely impressed!! 🤯  
 I'll post next about my setup with Github, DNS and so-on.
 </sub>
 <br/>
