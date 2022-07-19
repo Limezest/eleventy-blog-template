@@ -30,35 +30,63 @@ I'll post next about my setup with Github, DNS and so-on.
 ## Some context on mechanical keyboards
 
 So I dove head first into mechanical keyboards a few weeks ago. (months ago\* as I publish this so late…)  
-Being a software engineer I spend a lot of type on my keyboard, and believe it or not I sometimes even type on it to summon the favors of computer gods.
+Being a software engineer I spend a lot of type on my keyboard and — believe it or not — I sometimes even type on it to summon the favors of computer gods.
 
 After being curious about numerous keyboard options for a long time I finally crossed the line and ordered a Keychron K3v2 as my first step in the field.
 
-My choice was fairly sought after <em>hmm at that time</em>, I had been looking at mainly two options: the Nuphy Air75 and the Keychron K3.  
-They are both very physically appealing and while this may not be the first thing you look for in a keyboard, I can't say it doesn't weigh in the balance of a newcomer to be honest.
+My choice was fairly sought after <sup>hmm <sup>at <sup>that <sup>time</sup></sup></sup></sup>, I had been looking at mainly two options: the [Nuphy Air75][nuphy-air75] and the [Keychron K3][keychron-k3v2].
+
+Both were physically appealing to me and while this may not be the first thing you _should_ look for in a keyboard, I can't say it doesn't weigh in the balance for a newcomer to be honest.
 
 The main points that interested me in both these keyboards were:
 
--   Entry-level price ($100 or less)
--   Wireless and easy to connect (Mac & Windows support)
--   Easy to travel with
--   75% format
--   Generally good reviews, again, for an entry-level
+-   Entry-level price ($100 or less);
+-   Wireless and easy to connect (with Mac & Windows support);
+-   Easy to travel with (I thought about using it at the office or when working remotely at home);
+-   75% format is a good size (more on this later);
+-   Generally good reviews (again, for an entry-level).
 
-I wish I could tell you I wrote this article on the K3 I ordered but it turns out buying a mechanical keyboard may require a bit more research.
+I wish I could tell you I wrote this article on the K3 I ordered but it turns out buying a mechanical keyboard may require a bit more research 😅.
 
-Let me take you through what I learned in the last few months.
+Let me take you through what I learned in the last few months!
 
-## What defines a keyboard anyway?
+## What's in a keyboard anyway?
 
-Starting with what you can primarily see and interact with first:
+Let's start from a visual perspective
+
+### Format
+
+The keyboard format is one of the very first thing you are going to look at. This decision will impact many things: the number of keys on the board, their disposition, the use of macros, your muscle memory, ...
+
+-   **Full size**: It's your standard keyboard with a numpad and all keys (105 in Europe, 104 US)
+    [!][format-fullsize-keyboard]
+-   **TKL**: Stands for "ten key less". A fullsize without numpad.  
+    Main avantage is taking less space on your desk and keeping your mouse closer to you. (more comfortable for gaming)
+    [!][format-tkl-keyboard]
+
+-   **Compact**: Anything smaller than a TKL.  
+    Common formats are 75%, 60% and 40%.
+
+    75% keyboards include the main keys you need on a keyboard to write: letters and symbols, modifiers, as well as F-keys, directional arrows and some specials keys. Even if no standard is established, manufacturers often include "page up"/"down", "home" and "end" keys, "del" and sometimes "ins".
+    The most important part with compact keyboards is how many extra keys you get since you will be able to reprogram them to your will using softwares like [VIA][via]
+    [!][format-75-keyboard]
+
+    60% only include the main keys of a keyboard (no F-keys, no arrows, no special keys).  
+     Any deleted keys may be accessed using a combination of Fn keys.
+    [!][format-60-keyboard]
+
+    40% are the most minimal keyboard possible. Including only letters, symbols and modifiers. They require users to bind their specific key combination and rely on a lot of muscle memory to make them work.
+    [!][format-40-keyboard]
+
+-   **ergo**:
+    [!][format-ergo-keyboard]
 
 ### ✨ The Keys ✨
 
 -   Layout (ANSI / ISO)
 -   Disposition (FR-ISO)
 -   Keycaps (PBT (backlight))
--   Characters / Novelty (Dye)
+-   Legends Characters / Novelty (Dye, Lazer, Engraving)
 -   Profile (Cherry / OEM)
 
 ### ✨ The Switches ✨
@@ -111,6 +139,19 @@ Bluetooth is rare but can be found
 It took me a lot of time to get my typing speed and accuracy back from a membrane keyboard to a mechanical one, especially with a tall profile and light actuation switches.  
 I can only recommend so much [Typing Club][typing-club] to help you with touch typing.
 
+## Moding
+
+-   moding to improve sound and comfort
+-   Changing somes switches (spacebar to a higher activation force?)
+
 [nuphy-air75]: https://nuphy.com/products/air75
 [keychron-k3v2]: https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard
+[via]: https://www.caniusevia.com
+
+[format-fullsize-keyboard]:
+[format-tkl-keyboard]:
+[format-75-keyboard]:
+[format-60-keyboard]:
+[format-40-keyboard]:
+
 [typing-club]: https://www.typingclub.com
