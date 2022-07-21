@@ -22,7 +22,7 @@ module.exports = {
     // LinkedIn ID  (optional, remove it not needed), used for link in the left sidebar
     socialLinkedIn: "cyrilsabourault",
     // Google Analytics ID  (optional, remove it not needed), used for... well, Google Analytics
-    googleAnalytics: "UA-97440152-1"
+    googleAnalytics: "G-1PJY7QRDQ7"
     // Algolia-powered search  (optional, remove it not needed),
     // See: https://github.com/algolia/algoliasearch-netlify
     // algoliaSearch: {
