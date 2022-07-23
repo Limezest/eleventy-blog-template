@@ -190,9 +190,8 @@ No underlying infrastructure to provide, configure and maintain up-to-date!
 You just build your code into a container (and we've just seen it's as easy as bringing a Dockerfile) and then referencing your newly-built image.
 
 Cloud Run provides scale-to-zero capability, which means once my service stops receiving request for a few minutes the container will entirely stop, saving both money and energy.  
-The only drawback to this, is the first request to hit my service back after a scale-down event has to wait until the container comes back up, which in our case can be a few seconds long. We call this a __cold-boot__.  
+The only drawback to this, is the first request to hit my service back after a scale-down event has to wait until the container comes back up, which in our case can be a few seconds long. We call this a **cold-boot**.  
 Fortunately, once instanciated for any single request our container will be warm for all following requests, with our markov text-model retained in memory and ready to serve the next sentence instantly!
-
 
 [hacker-news]: https://news.ycombinator.com
 [github-repo]: https://github.com/Limezest/hacker-news-generator
