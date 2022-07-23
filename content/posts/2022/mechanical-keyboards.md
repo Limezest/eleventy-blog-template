@@ -38,7 +38,7 @@ I'll post next about my setup with Github, DNS and so-on.
 ## Some context on keyboards
 
 I got into mechanical keyboards a few weeks ago. (months ago\* as I publish this so late…)  
-Being a software engineer I spend a lot of type on my keyboard and — believe it or not — I sometimes even type on it to summon the favors of computer gods.
+Being a software engineer I spend a lot of time on my keyboard and — believe it or not — I sometimes even type on it to summon the favors of computer gods.
 
 After being curious about numerous keyboard options for a long time I finally crossed the line and ordered a Keychron K3v2 as my first step in the field.
 
@@ -56,7 +56,7 @@ The main points that interested me in both these keyboards were:
 
 I wish I could tell you I wrote this article on the K3 I ordered but it turns out buying a mechanical keyboard may require a bit more research 😅.
 
-Let me take you through what I learned in the last few months!
+Here is what I learned over the past few months!
 
 ## What's in a keyboard anyway?
 
@@ -64,9 +64,9 @@ Let's start from a visual perspective
 
 ### ✨ Format ✨
 
-The keyboard format is one of the very first thing you are going to look at. This decision will impact many things: the number of keys on the board, their disposition, the use of macros, your muscle memory, ...
+The keyboard format is one of the very first thing you are going to look at. This decision will impact many things: the number of keys on the board, their layout, the use of macros, your muscle memory, …
 
--   **Full size**: It's your standard keyboard with a numpad and all keys (105 in Europe, 104 US)
+-   **Full size**: It's your standard keyboard with a numpad and all keys (105 in Europe, 104 for the US)
     <br/><br/>
     ![format-fullsize-keyboard][format-fullsize-keyboard]
     <br/>
@@ -103,14 +103,14 @@ The keyboard format is one of the very first thing you are going to look at. Thi
     ![format-ergo-keyboard][format-ergo-keyboard]
     <br/>
 
-An important thing to notice is no matter the keyboard format, the actual key size and spacing between them will always be the same!
+An important thing to notice is regardless the keyboard format, the actual key size and spacing between them will always be the same!
 
 ### ✨ The Keys ✨
 
-Now that we've seen how many keys a keyboard can have, let's talk about their arrangement and all their specificities.
+Now that we've seen how many keys a keyboard can have, let's talk about their layout and all their specificities.
 
--   Layout (ANSI / ISO)
--   Disposition (FR-ISO)
+-   Layout (ANSI / ISO) (where each switch is on the PCB)
+-   Disposition (FR-ISO) (what symbol is on the key)
 -   Keycaps (PBT (backlight))
 -   Legends Characters / Novelty (Dye, Lazer, Engraving)
 -   Profile (Cherry / OEM)
@@ -130,7 +130,7 @@ They come in different shapes and feelings.
 
 ### ✨ The Plate ✨
 
--   disposition / compatibility
+-   layout / compatibility
 -   material (pom, pc)
 
 ### ✨ The PCB ✨
@@ -150,11 +150,11 @@ They come in different shapes and feelings.
 Get documented, a lot.  
 Many many people can help you online, watch youtube video, follow twitch streams, engage with discord communities.
 
-Good entry-level keyboards cost more than you think. They are probably more around $250 for the cheaper ones.  
-If you are really willing to get a suitable custom keyboard, put some money aside for a while and get something around $500 to $600
+Good entry-level keyboards cost more than you think. The cheaper ones are probably more around $250 already.  
+If you are really willing to get a suitable custom keyboard, put some money aside for a while and get something around $500 to $600.
 
 French azerty layout is a pain in the ass to find.  
-Bluetooth is rare but can be found
+Bluetooth is rare but can be found! (qk65 for instance)
 
 ## What comes next?
 
@@ -166,7 +166,7 @@ I can only recommend so much [Typing Club][typing-club] to help you with touch t
 ### Moding
 
 -   moding to improve sound and comfort
--   Changing somes switches (spacebar to a higher actuation force?)
+-   Changing somes switches (spacebar to a higher actuation force)
 
 [nuphy-air75]: https://nuphy.com/products/air75
 [keychron-k3v2]: https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard
